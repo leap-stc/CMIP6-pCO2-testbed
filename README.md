@@ -5,9 +5,11 @@
 - Refactor Code and run analysis on new vs old testbed
 
 ## Milestones
+
+- Create testbed form existing CMIP6 data in pangeo catalog
+  - Analysis on existing CMIP6 data in pangeo catalog
 - New CMIP6 data available in main catalog
-- Analysis on old data
-- ...
+  - Create testbed
 
 ## Deliverables
 
